@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  InternalApp
+
+  Created by AUGURS Technologies on 26/03/20.
+  Copyright © 2020 AUGURS Technologies. All rights reserved.
+*/
+"Log Out" = "چېكىنىش";
+"Do you want to Log Out ?" = "چېكىنىشنى خالامسىز؟";
+"No" = "ياق";
+"Yes" = "ھەئە";
+"Change Password" = "پارولنى ئۆزگەرتىش";
+"Feedback" = "تەكلىپ";
+"Help" = "ياردەم";
+"Settings" = "تەڭشەك";
+"Change Language" = "تىلنى ئۆزگەرتىش";
+"Sales" = "سېتىش";
+"Member" = "ئەزا";
+"Inventory" = "كەشپىيات";
+"Purchase" = "سېتىۋېلىش";
+"Human Resource" = "ئادەم كۈچى بايلىقى";
+"Finance" = "مالىيە";
+"Manufacture" = "ياسىمىچىلىق";
+"Store Management Equipment" = "Store Management Equipment";
+"Equipment" = "ئۈسكۈنىلەر";
+"Requests" = "تەلەپ";
+"Feeds" = "Feeds";
+"Home" = "ئۆي";
+"Chat" = "پاراڭ";
+"More" = "تېخىمۇ كۆپ";
+"Career" = "كەسپى";
+"Quick View" = "تېز كۆرۈش";

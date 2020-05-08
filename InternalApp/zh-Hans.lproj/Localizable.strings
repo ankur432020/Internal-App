@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  InternalApp
+
+  Created by AUGURS Technologies on 26/03/20.
+  Copyright © 2020 AUGURS Technologies. All rights reserved.
+*/
+
+"Log Out" = "登出";
+"Do you want to Log Out ?" = "您要登出吗？";
+"No" = "没有";
+"Yes" = "是";
+"Change Password" = "更改密码";
+"Feedback" = "反馈";
+"Help" = "救命";
+"Settings" = "设定值";
+"Change Language" = "改变语言";
+"Sales" = "营业额";
+"Member" = "会员";
+"Inventory" = "库存";
+"Purchase" = "采购";
+"Human Resource" = "人力资源";
+"Finance" = "金融";
+"Manufacture" = "制造";
+"Store Management Equipment" = "店铺管理设备";
+"Equipment" = "设备";
+"Requests" = "要求";
+"Feeds" = "提要";
+"Home" = "家";
+"Chat" = "聊天室";
+"More" = "更多";
+"Career" = "事业";
+"Quick View" = "快速浏览";

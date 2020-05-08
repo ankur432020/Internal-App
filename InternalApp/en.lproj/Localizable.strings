@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  InternalApp
+
+  Created by AUGURS Technologies on 26/03/20.
+  Copyright © 2020 AUGURS Technologies. All rights reserved.
+*/
+"Log Out" = "Log Out";
+"Do you want to Log Out ?" = "Do you want to Log Out ?";
+"No" = "No";
+"Yes" = "Yes";
+"Change Password" = "Change Password";
+"Feedback" = "Feedback";
+"Help" = "Help";
+"Settings" = "Settings";
+"Change Language" = "Change Language";
+"Sales" = "Sales";
+"Member" = "Member";
+"Inventory" = "Inventory";
+"Purchase" = "Purchase";
+"Human Resource" = "Human Resource";
+"Finance" = "Finance";
+"Manufacture" = "Manufacture";
+"Store Management Equipment" = "Store Management Equipment";
+"Equipment" = "Equipment";
+"Requests" = "Requests";
+"Feeds" = "Feeds";
+"Home" = "Home";
+"Chat" = "Chat";
+"More" = "More";
+"Career" = "Career";
+
